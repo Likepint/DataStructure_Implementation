@@ -15,12 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="01_SinglyLinkedList\SinglyLinkedList.h">
+    <ClInclude Include="03_DoublyLinkedList\DoublyLinkedList.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01_SinglyLinkedList\SinglyLinkedList.cpp">
+    <ClCompile Include="03_DoublyLinkedList\DoublyLinkedList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

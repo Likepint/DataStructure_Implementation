@@ -19,10 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="02_SinglyCircularLinkedList\SinglyCircularLinkedList.h" />
+    <ClInclude Include="03_DoublyLinkedList\DoublyLinkedList.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="02_SinglyCircularLinkedList\SinglyCircularLinkedList.cpp" />
+    <ClCompile Include="03_DoublyLinkedList\DoublyLinkedList.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
