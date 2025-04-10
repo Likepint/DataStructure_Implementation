@@ -15,12 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="04_DoublyCircularLinkedList\ClassDoublyCircularLinkedList.h">
+    <ClInclude Include="05_Queue\Queue.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="04_DoublyCircularLinkedList\ClassDoublyCircularLinkedList.cpp">
+    <ClCompile Include="05_Queue\Queue.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

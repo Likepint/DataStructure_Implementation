@@ -19,10 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="04_DoublyCircularLinkedList\ClassDoublyCircularLinkedList.h" />
+    <ClInclude Include="05_Queue\Queue.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="04_DoublyCircularLinkedList\ClassDoublyCircularLinkedList.cpp" />
+    <ClCompile Include="05_Queue\Queue.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
